@@ -282,6 +282,7 @@ COUNTRIES: "Dict[str, StrPromise]" = {
     "YE": _("Yemen"),
     "ZM": _("Zambia"),
     "ZW": _("Zimbabwe"),
+    "XX": _("Other"),
 }
 
 ALT_CODES = {
@@ -534,6 +535,7 @@ ALT_CODES = {
     "YE": ("YEM", 887),
     "ZM": ("ZMB", 894),
     "ZW": ("ZWE", 716),
+    "XX": ("XXX", 999),
 }
 
 
